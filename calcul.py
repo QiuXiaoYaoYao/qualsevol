@@ -13,4 +13,5 @@ elif op == "/":
 else: 
     print("No vàlid") 
     resultat = None
+c = 4
 print(resultat)
